@@ -1,22 +1,7 @@
-## Hello! I'm Isuru 👋
+## Hello! I'm Thiwanga 👋
 
 ### 🎓 Education
 - **Undergraduate** at **University of Colombo School of Computing**
-
-### 🛠 Languages
-- <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,php,java,python,r" />
-
-### 💡 Technologies
-- <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,npm,spring,materialui,firebase,qt,figma,git,github,postman" />
-
-### 💻 Most Preferred - **Back-End Development with** 
-- <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs"/>
-
-### 🛠 Editor of Choice
-- <img src="https://skillicons.dev/icons?i=vscode,idea" />
-
-
-
 ---
 
 [![Thiwanga's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thiwanga123&theme=react-dark)](https://github.com/Thiwanga123/github-readme-activity-graph)
